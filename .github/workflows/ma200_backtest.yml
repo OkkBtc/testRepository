@@ -36,3 +36,5 @@ jobs:
           path: ma200_output/
           if-no-files-found: error
           retention-days: 3
+
+# Triggered for the Chinese workbook build on 2026-09-03.
